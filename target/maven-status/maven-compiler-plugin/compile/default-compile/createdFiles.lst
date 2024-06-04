@@ -1,0 +1,8 @@
+clases\Libros_Revistas.class
+com\mycompany\proyecto_mediateca\JakartaRestConfiguration.class
+com\mycompany\proyecto_mediateca\resources\JakartaEE10Resource.class
+Connection\TestConnection.class
+CRUD\LibrosDAO.class
+CRUD\MultimediaDAO.class
+Connection\DBConnection.class
+TestObtenerInfoPrestamos.class
